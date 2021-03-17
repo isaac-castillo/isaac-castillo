@@ -11,5 +11,5 @@ Here you can find some of the projects I have been working on.
 
 [graphit](https://github.com/isaac-castillo/graphit): My first project ever - a graphing calculator written in Java.  
 
-[site](https://github.com/isaac-castillo/site): A repository for my website: [hireisaac.com](https://hireisaac.com) hireisaac.com
+[site](https://github.com/isaac-castillo/site): A repository for my website: [hireisaac.com](https://hireisaac.com)
 
